@@ -91,7 +91,7 @@ footer p {
 .sobre {
     display: flex;
     flex-wrap: wrap;
-    background-color: #fff;
+    background-color: #ffbef1;
     padding: 60px 80px;
     gap: 40px;
 }
