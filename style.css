@@ -73,3 +73,18 @@ margin: 10px 0; /* Adiciona uma margem de 10 pixels em cima e embaixo, e 0 nas l
     color: #fc67e3;
     background-color: rgb(245, 79, 203);
 }
+
+footer {
+    background-color: #444;
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+}
+
+
+footer p {
+    margin: 0;
+    font-family: "Libre Baskerville", serif;
+    font-size: 16px;
+    font-weight: 500;
+}
