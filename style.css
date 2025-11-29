@@ -49,6 +49,13 @@ font-size: 18px; /* Define o tamanho da fonte como 18 pixels */
 margin: 10px 0; /* Adiciona uma margem de 10 pixels em cima e embaixo, e 0 nas laterais */
 }
 
+.social {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.4rem;
+    margin-top: 1.4rem;
+}
+
 .social a {
     display: grid;
     place-items: center;
