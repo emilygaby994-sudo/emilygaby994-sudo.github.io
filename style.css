@@ -48,3 +48,21 @@ margin-top: 10px; /* Adiciona uma margem de 10 pixels acima do subtítulo */
 font-size: 18px; /* Define o tamanho da fonte como 18 pixels */
 margin: 10px 0; /* Adiciona uma margem de 10 pixels em cima e embaixo, e 0 nas laterais */
 }
+
+.social a {
+    display: grid;
+    place-items: center;
+    text-decoration: none;
+    color: rgb(245, 115, 238);
+    border: 1.6px solid rgb(243, 75, 201);
+    font-size: 1.5rem;
+    border-radius: 50%;
+    padding: 0.39rem;
+    text-align: center;
+}
+
+
+.social a:hover {
+    color: #fc67e3;
+    background-color: rgb(245, 79, 203);
+}
